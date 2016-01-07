@@ -1,0 +1,1 @@
+Port the encryption code from FPDF\_Protection (http://www.fpdf.de/downloads/addons/37/) to Zend\_Pdf.
